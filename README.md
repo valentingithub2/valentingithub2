@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentingithub2
 - 👀 I’m interested in Google Earth Engine
-- 🌱 I’m currently learning coding in GEE with JavaSript
+- 🌱 I code code in GEE with JavaSript
 - 💞️ I’m looking to collaborate on Google Earth Engine Appi development
 - 📫 How to reach me Email:valentinoued@gmail.com, WhatsApp: +22673434230
 
